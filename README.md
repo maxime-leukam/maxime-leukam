@@ -1,7 +1,3 @@
-## Hi there 👋
-<!--
-**maxime-leukam/maxime-leukam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👨‍💻 Maxime Leukam
 
 Bienvenue sur mon référentiel GitHub ! Je suis **Maxime Leukam**, étudiant en **3e année de Génie Logiciel** passionné par le développement web.
@@ -51,5 +47,3 @@ Tu trouveras ici des projets liés à :
 ---
 
 Merci de visiter mon profil ! N'hésite pas à suivre mes projets et à me contacter pour échanger ou collaborer. 😊
-
--->
